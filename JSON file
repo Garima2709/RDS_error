@@ -1,0 +1,14 @@
+[
+    {
+        "ParameterKey": "ProjectName",
+        "ParameterValue": "Garima"
+    },
+    {
+        "ParameterKey": "RdsMasterUsername",
+        "ParameterValue": "username"
+    },
+    {
+        "ParameterKey": "RdsMasterPassword",
+        "ParameterValue": "trysomethingsafehere"
+    }
+]
